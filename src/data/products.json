@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "Pigment Paste Blue B-15",
+    "slug": "pigment-paste-blue-b-15",
+    "category": "Pigment Paste",
+    "image": "file:///C:/Users/LAPTOP%20UNIVERSE/.gemini/antigravity/brain/141e6a60-f348-45c8-9628-c026fba331fb/pigment_paste_blue_premium_1774963102356.png",
+    "shortDescription": "Concentrated blue pigment paste for high-brilliance textile printing.",
+    "description": "Our Blue B-15 is a high-concentration aqueous pigment dispersion designed for exceptional brightness and durability in textile printing. It features excellent light fastness and wash fastness, making it ideal for export-quality fabrics.",
+    "technicalSpecs": [
+      { "label": "Color Index", "value": "P.B. 15:3" },
+      { "label": "Solid Content", "value": "45% ± 2%" },
+      { "label": "pH Value", "value": "7.5 - 8.5" },
+      { "label": "Light Fastness", "value": "7-8 (Blue Wool Scale)" },
+      { "label": "Particle Size", "value": "< 1.0 micron" }
+    ],
+    "features": [
+      "Ultra-fine particle size for smooth printing",
+      "High tinting strength",
+      "Excellent storage stability",
+      "Formaldehyde-free and APEO-free"
+    ],
+    "usage": [
+      "Stir well before use",
+      "Recommended dosage: 0.5% - 5.0% by weight of paste",
+      "Compatible with all aqueous binder systems"
+    ],
+    "datasheetUrl": "/api/datasheets/blue-b15",
+    "whatsappMessage": "Hello! I am interested in Pigment Paste Blue B-15. Please share pricing and availability."
+  },
+  {
+    "id": "2",
+    "name": "Acrylic Binder Soft-70",
+    "slug": "acrylic-binder-soft-70",
+    "category": "Binders & Fixers",
+    "image": "file:///C:/Users/LAPTOP%20UNIVERSE/.gemini/antigravity/brain/141e6a60-f348-45c8-9628-c026fba331fb/acrylic_binder_soft_70_premium_1774963127212.png",
+    "shortDescription": "Eco-friendly acrylic binder providing superior soft hand-feel.",
+    "description": "Soft-70 is a high-performance self-crosslinking acrylic copolymer emulsion. It is specifically formulated to provide an extremely soft handle while maintaining excellent crocking fastness in pigment printing applications.",
+    "technicalSpecs": [
+      { "label": "Appearance", "value": "Milky White Liquid" },
+      { "label": "Ionic Nature", "value": "Anionic" },
+      { "label": "pH Value", "value": "6.0 - 7.5" },
+      { "label": "Glass Transition (Tg)", "value": "-15°C" },
+      { "label": "Active Content", "value": "40% ± 1%" }
+    ],
+    "features": [
+      "Extremely soft hand-feel",
+      "Non-yellowing at high temperatures",
+      "Excellent dry and wet rub fastness",
+      "Low VOC and environment-friendly"
+    ],
+    "usage": [
+      "Directly add to the print paste",
+      "Standard dosage: 10% - 20% depending on pigment loading",
+      "Cure at 150°C for 3 minutes for optimal fastness"
+    ],
+    "datasheetUrl": "/api/datasheets/soft-70",
+    "whatsappMessage": "Hello! I am interested in Acrylic Binder Soft-70. Please share pricing and availability."
+  },
+  {
+    "id": "3",
+    "name": "Pigment Paste Red 3R",
+    "slug": "pigment-paste-red-3r",
+    "category": "Pigment Paste",
+    "image": "file:///C:/Users/LAPTOP%20UNIVERSE/.gemini/antigravity/brain/141e6a60-f348-45c8-9628-c026fba331fb/pigment_paste_red_premium_1774963147108.png",
+    "shortDescription": "Vibrant red pigment with superior wash fastness.",
+    "description": "Red 3R provides a deep, rich crimson tone with perfect levelness. It is highly resistant to heat and industrial laundering, making it a favorite for workwear and uniform printing segments.",
+    "technicalSpecs": [
+      { "label": "Color Index", "value": "P.R. 254" },
+      { "label": "Viscosity", "value": "Low to Medium" },
+      { "label": "pH Value", "value": "8.0 - 9.0" },
+      { "label": "Heat Stability", "value": "Up to 200°C" }
+    ],
+    "features": [
+      "High color brilliance",
+      "Excellent dispersion stability",
+      "Suitable for fine screen printing",
+      "APEO-free formulation"
+    ],
+    "usage": [
+      "Mix with binder at a ratio of 1:10 for base shades",
+      "Adjust viscosity with thickener as required",
+      "Best used within 6 months of opening"
+    ],
+    "datasheetUrl": "/api/datasheets/red-3r",
+    "whatsappMessage": "Hello! I am interested in Pigment Paste Red 3R. Please share pricing and availability."
+  },
+  {
+    "id": "4",
+    "name": "Discharge Paste DP-21",
+    "slug": "discharge-paste-dp-21",
+    "category": "Discharge Paste",
+    "image": "file:///C:/Users/LAPTOP%20UNIVERSE/.gemini/antigravity/brain/141e6a60-f348-45c8-9628-c026fba331fb/discharge_paste_premium_1774963166950.png",
+    "shortDescription": "High-white discharge paste for discharge printing on reactive-dyed fabrics.",
+    "description": "DP-21 is a premium discharge paste specifically designed for high-white results on reactive-dyed dark fabrics. It provides a soft feel, sharp contours, and excellent discharge effect while maintaining the strength of the fabric.",
+    "technicalSpecs": [
+      { "label": "Appearance", "value": "Semi-Transparent Paste" },
+      { "label": "pH Value", "value": "8.5 - 9.5" },
+      { "label": "Viscosity", "value": "35,000 - 55,000 CPS" },
+      { "label": "Odor", "value": "Neutral / Low Odor" },
+      { "label": "Solid Content", "value": "38% ± 1.5%" },
+      { "label": "Stability", "value": "Strong Alkaline Stable" }
+    ],
+    "features": [
+      "Brilliant high-white discharge effect",
+      "Superior soft-hand feel",
+      "Excellent print detail and sharpness",
+      "Low odor during printing and drying",
+      "Good compatibility with discharge pigments"
+    ],
+    "usage": [
+      "Use only on dischargeable reactive-dyed fabrics",
+      "Add 3-6% Discharge Agent (Zinc/SFS) before use",
+      "Print through 100-120 mesh screen",
+      "Dry and cure at 150°C-160°C for 3 minutes for full effect"
+    ],
+    "datasheetUrl": "/api/datasheets/dp-21",
+    "whatsappMessage": "Hello! I am interested in Discharge Paste DP-21. Please share pricing and availability."
+  },
+  {
+    "id": "5",
+    "name": "Synthetic Thickener ST-90",
+    "slug": "synthetic-thickener-st-90",
+    "category": "Thickener",
+    "image": "file:///C:/Users/LAPTOP%20UNIVERSE/.gemini/antigravity/brain/141e6a60-f348-45c8-9628-c026fba331fb/synthetic_thickener_premium_1774963184497.png",
+    "shortDescription": "High-performance synthetic thickener for aqueous pigment printing systems.",
+    "description": "ST-90 is a concentrated liquid synthetic thickener developed for high-sharpness pigment printing. It provides excellent flow properties, high color yield, and easy preparation for both manual and automatic screen printing machines.",
+    "technicalSpecs": [
+      { "label": "Appearance", "value": "Creamy Viscous Liquid" },
+      { "label": "pH Value", "value": "6.5 - 7.5 (1% aqueous solution)" },
+      { "label": "Concentration", "value": "High Concentration" },
+      { "label": "Compatibility", "value": "Anionic & Non-ionic Binders" },
+      { "label": "Solubility", "value": "Water-Dispersible" },
+      { "label": "Shelf Life", "value": "12 Months in original packing" }
+    ],
+    "features": [
+      "Quick viscosity development",
+      "High color yield and brilliance",
+      "Excellent sharpness and levelness",
+      "Extremely soft handle in final prints",
+      "Easily removed during washing if required"
+    ],
+    "usage": [
+      "Add to printing paste under high-speed stirring",
+      "Typical dosage: 1.2% - 2.0% for desired viscosity",
+      "Adjust pH of printing paste if necessary",
+      "Stir well after adding for uniform thickening"
+    ],
+    "datasheetUrl": "/api/datasheets/st-90",
+    "whatsappMessage": "Hello! I am interested in Synthetic Thickener ST-90. Please share pricing and availability."
+  }
+]
